@@ -1,5 +1,6 @@
+![banner](https://github.com/SAhmedShuvo/SAhmedShuvo/blob/ca9b2e54de93d5bfd687cd25727c6116ae11b585/github%20banner.png)
 ## Hi, I'm Sabbir Ahmed Shuvo 👋
-br><br>Computer Science student focused on software engineering, with a strong background in problem solving and data structures.  Solved 1500+ problems across Codeforces, CodeChef, VJudge, and LeetCode.  Currently building full-stack applications using Next.js, Express, and MongoDB, while strengthening core CS fundamentals.<br><br>Always learning, building, and improving.
+<br><br>Computer Science student focused on software engineering, with a strong background in problem solving and data structures.  Solved 1500+ problems across Codeforces, CodeChef, VJudge, and LeetCode.  Currently building full-stack applications using Next.js, Express, and MongoDB, while strengthening core CS fundamentals.<br><br>Always learning, building, and improving.
 
 <!--
 **SAhmedShuvo/SAhmedShuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +28,8 @@ Here are some ideas to get you started:
 - Full-stack web application with authentication
 - Built using Next.js, Express, and MongoDB
 - Handles item posting, searching, and user management
-- GitHub: [https://github.com/your-username/your-repo](https://github.com/SAhmedShuvo/LostNFound.git)
+- GitHub: https://github.com/SAhmedShuvo/LostNFound
 
 ---
-[![](https://komarev.com/ghpvc/?username=SAhmedShuvo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
